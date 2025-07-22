@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I started programming in 2024 and quickly discovered my passion for it. I enjoy learning new technologies and continuously expanding my skills.</p>
+<p align="left">I started programming in 2024 and quickly discovered my passion for it. I enjoy learning new technologies and continuously expanding my skills. In my free time, I enjoy playing games, keeping fit and playing piano.</p>
 
 ###
 
